@@ -3,6 +3,7 @@
 document.getElementById('btn-calculate').addEventListener('click', function () {
 
     // expenses
+    
     // food
     const foodField = document.getElementById('food');
     const foodFieldValue = parseFloat(foodField.value);
